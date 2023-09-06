@@ -5,13 +5,6 @@ This is a sample react weather app.
 Live Demo [here](https://react-weather-app-v1.netlify.app/).
 
 ## Instructions
-
-First clone this repository.
-
-```bash
-$ git clone https://github.com/sakilk130/react-weather-app.git
-```
-
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 
 ```bash
